@@ -1,7 +1,7 @@
 # Hi there, I'm Naisarg Halvadiya! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nh0397&color=blueviolet)
-[![Linkedin Badge](https://img.shields.io/badge/-naisarg--halvadiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naisarg-halvadiya/)](https://www.linkedin.com/in/naisarg-halvadiya/)
+[![Linkedin Badge](https://img.shields.io/badge/-naisarg--halvadiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naisarg-h/)](https://www.linkedin.com/in/naisarg-h/)
 [![GitHub Badge](https://img.shields.io/badge/-nh0397-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/nh0397)](https://github.com/nh0397)
 [![Email Badge](https://img.shields.io/badge/-naisarg.halvadiya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naisarg.halvadiya@gmail.com)](mailto:naisarg.halvadiya@gmail.com)
 
