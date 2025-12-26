@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-naisarg--halvadiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naisarg-h/)](https://www.linkedin.com/in/naisarg-h/)
 [![GitHub Badge](https://img.shields.io/badge/-nh0397-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/nh0397)](https://github.com/nh0397)
 [![Email Badge](https://img.shields.io/badge/-naisarg.halvadiya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naisarg.halvadiya@gmail.com)](mailto:naisarg.halvadiya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-naisarghalvadiya.tech-blue?style=flat&logo=google-chrome&logoColor=white)](https://naisarghalvadiya.tech)
+
 
 ## About Me
 
