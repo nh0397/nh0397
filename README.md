@@ -81,7 +81,7 @@ I am a dedicated Software Engineer with a fervent interest in solving complex pr
 ## 📫 Contact Me
 
 - **Email:** [naisarg.halvadiya@gmail.com](mailto:naisarg.halvadiya@gmail.com)
-- **LinkedIn:** [linkedin.com/in/naisarg-halvadiya](https://www.linkedin.com/in/naisarg-halvadiya/)
+- **LinkedIn:** [linkedin.com/in/naisarg-h](https://www.linkedin.com/in/naisarg-h/)
 - **GitHub:** [github.com/nh0397](https://github.com/nh0397)
 
 ## 🌱 Fun Facts
